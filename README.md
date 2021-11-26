@@ -10,3 +10,5 @@
 Open data for the [Cocito weather station](https://github.com/MatMasIt/weatherStation) project
 
 The data is stored as csv with this format: `year/month/day/type.csv`
+
+The data is available under the MIT License
