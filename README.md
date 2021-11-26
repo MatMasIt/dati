@@ -12,3 +12,13 @@ Open data for the [Cocito weather station](https://github.com/MatMasIt/weatherSt
 The data is stored as csv with this format: `year/month/day/type.csv`
 
 The data is available under the MIT License
+
+|Data Type|Format|Unit of measurement |File type|
+|---|---|---|---|
+|Date|YYYY-MM-DD hhh:mm:ss|-|-|All|
+|Temperature|decimal|°C|`temperature.csv`|
+|Humidity|decimal|%|`humidity.csv`|
+|Pressure|decimal|hPa|`pressure.csv`|
+|Smoke|decimal|µg/m³|`smoke.csv`|
+|PM10|decimal|µg/m³|`pm10.csv`|
+|PM2.5|decimal|µg/m³|`pm25.csv`|
