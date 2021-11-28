@@ -15,7 +15,7 @@ The data is available under the MIT License
 
 |Data Type|Format|Unit of measurement |File type|
 |---|---|---|---|
-|Date|YYYY-MM-DD hhh:mm:ss|-|-|All|
+|Date|YYYY-MM-DD hhh:mm:ss<hr />**Caution**: Time is expressed in ``GMT`` (+0), not local time|-|-|All|
 |Temperature|decimal|°C|`temperature.csv`|
 |Humidity|decimal|%|`humidity.csv`|
 |Pressure|decimal|hPa|`pressure.csv`|
