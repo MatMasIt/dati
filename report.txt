@@ -1,10 +1,11 @@
 System report
-Tue 21 Dec 2021 10:48:02 AM CET
-CPU Temperature: 30.56 °C
+Tue 21 Dec 2021 10:48:35 AM CET
+CPU Temperature: 30.02 °C
 Memory Usage: 165/922MB (17.90%)
 Disk Usage: 8/14GB (64%)
-CPU Load: 70.00 %
+CPU Load: 77.00 %
 11M	storedData
 StazioneMeteo: 1 windows (created Mon Dec 20 20:17:19 2021)
 LiceoCocito
- 10:48:03 up  2:54,  4 users,  load average: 0.70, 0.66, 0.65
+ 10:48:35 up  2:54,  4 users,  load average: 0.77, 0.68, 0.65
+pi         578  0.0  2.9  48500 28252 pts/1    S+   07:54   0:02 python3 /home/pi/Desktop/station/main.py
