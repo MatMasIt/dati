@@ -13,5 +13,5 @@ jobs:
         uses: EndBug/add-and-commit@v7
         with:
           author_name: Palinsesto
-          message: 'Aggiornati palinsesti'
+          message: 'Updated last json file'
           add: 'last.json'
